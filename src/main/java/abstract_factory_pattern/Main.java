@@ -1,5 +1,7 @@
 package abstract_factory_pattern;
 
+import abstract_factory_pattern.providers.ContactManager;
+
 public class Main {
     public static void main(String[] args){
         ContactManager contactManager = new ContactManager();

@@ -1,4 +1,4 @@
-package abstract_factory_pattern;
+package abstract_factory_pattern.providers;
 
 import abstract_factory_pattern.abstractfactoy.ContactsFactory;
 import abstract_factory_pattern.abstractproducts.Address;
